@@ -6,7 +6,7 @@ NukeSlop is a lightweight, zero-extension browser bookmarklet that automatically
 
 ## Install (No Extension Needed)
 
-You do not any browser extension. Save the minified script directly as a browser bookmark.
+You do not need any browser extension. Save the minified script directly as a browser bookmark.
 
 ### Step 1: Copy the Bookmarklet Code
 
